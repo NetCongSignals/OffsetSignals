@@ -9,9 +9,9 @@ In Proc. 23rd Conference on Economics and Computation (EC), page 736, 2022, doi:
 
 This repository provides the code and data used in the computational study of the paper combined in a single zip-file.
 
-The main code for computing the flows in Wardrop equilibrium is highly based on the work of Matteo Bettini (https://github.com/matteobettini/Traffic-Assignment-Frank-Wolfe-2021; last accessed: 2022-01-06). Yet, we adjusted it to our model and the information design framework.
+The main code for computing the flows in Wardrop equilibrium is highly based on the work of Matteo Bettini ([https://github.com/matteobettini/Traffic-Assignment-Frank-Wolfe-2021](https://github.com/matteobettini/Traffic-Assignment-Frank-Wolfe-2021); last accessed: 2022-01-06). However, we adjusted it to our model and the information design framework.
 
-The network data was obtained from the Transportation Networks for Research Core Team (https://github.com/bstabler/TransportationNetworks; last accessed: 2022-01-14.).
+The network data was obtained from the Transportation Networks for Research Core Team ([https://github.com/bstabler/TransportationNetworks](https://github.com/bstabler/TransportationNetworks); last accessed: 2022-01-14.).
 
 ## Guiding notes for using the repository ##
 
@@ -44,5 +44,4 @@ Navigation:
 - Original network data is stored in "./TransportationNetworks-master/"
 
 ### Miscellaneous ###
-- Handbook for flow assignment techniques for references ("./traffic_assignment_book.pdf")
-  Source: https://sboyles.github.io/teaching/ce392c/book.pdf (last accessed: 2022-01-07)
+- Handbook for flow assignment techniques for references ("./traffic_assignment_book.pdf"), taken from [link to source](https://sboyles.github.io/teaching/ce392c/book.pdf) (last accessed: 2022-01-07)
