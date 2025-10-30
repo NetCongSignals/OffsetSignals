@@ -28,12 +28,12 @@ More information on each code file is provided in their respective headers.
 ### Data ###
 For each instance, there is a file 'support_{ID}.txt' that stores all central results needed for computing the quantities in Table 2 and 3.
 The ID consists of three or four digits which are assigned to the networks as follows:
-SF: 500 - 540
-EM: 600 - 640
-BF: 700 - 740
-BP: 200 - 240
-BT: 900 - 940
-BM: 1000 - 1040
+- SF: 500 - 540
+- EM: 600 - 640
+- BF: 700 - 740
+- BP: 200 - 240
+- BT: 900 - 940
+- BM: 1000 - 1040
 
 "./TransportationNetworks-master/" contains the original network data from [29].
 
